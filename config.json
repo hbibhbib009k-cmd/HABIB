@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "07e910f0-e64f-4f4f-966a-3050u15ac6c1",
+            "id": "07e910f0-e64f-4f4f-966a-3050u15av6c1",
             "level": 0
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/personalizado"
+          "path": "/habib"
         }
       }
     }
