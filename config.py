@@ -1,0 +1,3 @@
+API_TOKEN = "8329925844:AAGnApSc1-ehnZ5lGQ8fufaTBEE69X9O79E"
+OWNER_ID = 7228667035  # ضع هنا ID الخاص بك
+DB_PATH = "buttons.db"
